@@ -1,0 +1,13 @@
+{
+  "semi": true,
+  "singleQuote": false,
+  "bracketSpacing": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "arrowParens": "always",
+  "importOrder": ["react", "<THIRD_PARTY_MODULES>", "^[./]"],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "importOrderCaseInsensitive": false,
+  "plugins": ["@trivago/prettier-plugin-sort-imports"]
+}
