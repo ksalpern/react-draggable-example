@@ -1,9 +1,10 @@
 import React from "react";
+import { Board } from "./components/Board";
 
 function App() {
   return (
-    <div className='w-full h-screen flex justify-center items-center bg-zinc-900 text-white'>
-      <h1 className='text-3xl font-bold text-center'>Hello World</h1>
+    <div className='h-screen w-full bg-body text-white/90'>
+      <Board />
     </div>
   );
 }
