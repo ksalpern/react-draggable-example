@@ -5,7 +5,7 @@ Click [here](https://react-draggable-example.vercel.app/) to see the app or chec
 
 <img src="./public/assets/app.png" alt="result preview">
 
-## What will I see in this build
+## What will I see in this build?
 
 👉 React & Typescript
 
@@ -21,6 +21,6 @@ Click [here](https://react-draggable-example.vercel.app/) to see the app or chec
 
 3. Build the project: **npm run build**
 
-4. Start the project: **npm run dev**
+4. Start the project: **npm start**
 
 5. The website is now working, hope you enjoy it 😃
