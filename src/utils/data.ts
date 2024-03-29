@@ -24,22 +24,18 @@ export const DEFAULT_CARDS: Card[] = [
   { title: "Set up Lambda function", id: "10", column: "doing" },
   { title: "Add tests to new endpoints 💥💯", id: "11", column: "doing" },
   { title: "Migrate to TypeScript", id: "12", column: "doing" },
-  { title: "Set up CI/CD pipeline", id: "13", column: "doing" },
-  { title: "Create react draggable example", id: "14", column: "doing" },
-  { title: "Create react dnd example", id: "15", column: "doing" },
-  { title: "Create dashboard page 🤌👌", id: "16", column: "doing" },
-  { title: "Create user profile page", id: "17", column: "doing" },
-  { title: "Create settings page", id: "18", column: "doing" },
-  { title: "Create dark mode toggle", id: "19", column: "doing" },
+  { title: "Create dashboard page 🤌👌", id: "13", column: "doing" },
+  { title: "Create user profile page", id: "14", column: "doing" },
+  { title: "Create settings page", id: "15", column: "doing" },
   // DONE
   {
     title: "✨ Update README ✨",
-    id: "20",
+    id: "16",
     column: "done",
   },
   {
     title: "💣 Create draggable component witout libs 💣",
-    id: "21",
+    id: "17",
     column: "done",
   },
 ];
