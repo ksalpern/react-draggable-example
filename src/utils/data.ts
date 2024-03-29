@@ -2,7 +2,7 @@ import { Card, Column } from "./types";
 
 export const DEFAULT_CARDS: Card[] = [
   // BACKLOG
-  { title: "", id: "1", column: "backlog" },
+  { title: "Add a preview to the project 🤌", id: "1", column: "backlog" },
   { title: "Add dark mode 🧚", id: "2", column: "backlog" },
   { title: "👀 Add drag and drop 👀", id: "3", column: "backlog" },
   { title: "Add tests 🙈", id: "4", column: "backlog" },
